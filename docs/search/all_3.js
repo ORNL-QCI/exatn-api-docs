@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['deletedimension_52',['deleteDimension',['../classexatn_1_1numerics_1_1_tensor.html#a750f3e31cbc71a84236093eb60d9c377',1,'exatn::numerics::Tensor::deleteDimension()'],['../classexatn_1_1numerics_1_1_tensor_shape.html#a7524f286637673133f349a19d57f44ab',1,'exatn::numerics::TensorShape::deleteDimension()'],['../classexatn_1_1numerics_1_1_tensor_signature.html#a9cbadd3a886a724071689e6322b60b76',1,'exatn::numerics::TensorSignature::deleteDimension()']]],
+  ['deleteleg_53',['deleteLeg',['../classexatn_1_1numerics_1_1_tensor_conn.html#a0e3050f744d6f5f8b618252bfc8459b0',1,'exatn::numerics::TensorConn']]],
+  ['deletelegs_54',['deleteLegs',['../classexatn_1_1numerics_1_1_tensor_conn.html#af6ae76282b860110433f4368496373ff',1,'exatn::numerics::TensorConn']]],
+  ['deletetensor_55',['deleteTensor',['../classexatn_1_1numerics_1_1_tensor_network.html#aa20bc31a9ac48f3a4286bb4be2ba979c',1,'exatn::numerics::TensorNetwork']]],
+  ['dependencyexists_56',['dependencyExists',['../classexatn_1_1runtime_1_1_directed_boost_graph.html#a1ec61a08037bad64307e17e84037cb73',1,'exatn::runtime::DirectedBoostGraph::dependencyExists()'],['../classexatn_1_1runtime_1_1_tensor_graph.html#a65075489db464cb4519c81d31b15b739',1,'exatn::runtime::TensorGraph::dependencyExists()']]],
+  ['destroycontext_57',['DestroyContext',['../classtaprol_1_1_t_a_pro_l_parser_1_1_destroy_context.html',1,'taprol::TAProLParser']]],
+  ['destroysubspace_58',['destroySubspace',['../classexatn_1_1_num_server.html#a027ddd5366174ccf49e5854038f970d5',1,'exatn::NumServer::destroySubspace()'],['../namespaceexatn.html#a62396b5a34699a0e926b4ea7e0b74754',1,'exatn::destroySubspace()']]],
+  ['destroytensor_59',['destroyTensor',['../classexatn_1_1_num_server.html#a3c16fba0e49fbc50000a35d206a1ec57',1,'exatn::NumServer::destroyTensor()'],['../namespaceexatn.html#a6ee1c97d99ad2562cd8b01d992b49983',1,'exatn::destroyTensor()']]],
+  ['destroyvectorspace_60',['destroyVectorSpace',['../classexatn_1_1_num_server.html#a3a6225c2e72f9e4e3a8645236861b24a',1,'exatn::NumServer::destroyVectorSpace()'],['../namespaceexatn.html#ac890d1557b624fd402aa6e0d1cef0892',1,'exatn::destroyVectorSpace()']]],
+  ['determinecontractionsequence_61',['determineContractionSequence',['../classexatn_1_1numerics_1_1_contraction_seq_optimizer.html#abf707da059d176c47b69b9150ecfdf64',1,'exatn::numerics::ContractionSeqOptimizer::determineContractionSequence()'],['../classexatn_1_1numerics_1_1_contraction_seq_optimizer_dummy.html#a402119f27461b7068c604450759a0de6',1,'exatn::numerics::ContractionSeqOptimizerDummy::determineContractionSequence()'],['../classexatn_1_1numerics_1_1_contraction_seq_optimizer_heuro.html#ae6dd81e3ec1e1be895598947038f3b95',1,'exatn::numerics::ContractionSeqOptimizerHeuro::determineContractionSequence()'],['../classexatn_1_1numerics_1_1_tensor_network.html#a812c5a736d18f4ef7f4dc9a92f79c39f',1,'exatn::numerics::TensorNetwork::determineContractionSequence()']]],
+  ['directedboostgraph_62',['DirectedBoostGraph',['../classexatn_1_1runtime_1_1_directed_boost_graph.html',1,'exatn::runtime']]],
+  ['directedboostvertex_63',['DirectedBoostVertex',['../structexatn_1_1runtime_1_1_directed_boost_vertex.html',1,'exatn::runtime']]],
+  ['driverclient_64',['DriverClient',['../classexatn_1_1rpc_1_1_driver_client.html',1,'exatn::rpc']]],
+  ['driverserver_65',['DriverServer',['../classexatn_1_1rpc_1_1_driver_server.html',1,'exatn::rpc']]]
+];
